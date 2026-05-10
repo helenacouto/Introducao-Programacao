@@ -1,1 +1,0 @@
-Todos os exercícios que eu realizei durante a disciplina "Introdução à Programação" na Universidade Federal da Paraíba.
